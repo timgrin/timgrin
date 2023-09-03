@@ -1,4 +1,4 @@
-<h1>Hi, I'm Timilehin! <a href="https://www.linkedin.com/in/timilehinodumuyiwa/">Aspiring Cybersecurity Professional</a>
+<h1>Hi, I'm Timilehin! <a href="https://www.linkedin.com/in/timilehinodumuyiwa/">Aspiring Cybersecurity Analyst</a>
 
 <h2>🧪 Homelab Projects:</h2>
 
