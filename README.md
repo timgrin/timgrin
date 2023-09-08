@@ -1,9 +1,9 @@
-<h1>Hi, I'm Timilehin! <a href="https://www.linkedin.com/in/timilehinodumuyiwa/">Aspiring Cybersecurity Analyst</a>
+<h1>Hi, I'm Timilehin! <a href="https://www.linkedin.com/in/timilehinodumuyiwa/">Aspiring Cybersecurity Professional</a>
 
 <h2>🧪 Homelab Projects:</h2>
 
 
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Homelab](https://github.com/timgrin/AD-DS-Homelab)
 
 
 
