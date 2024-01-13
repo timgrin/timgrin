@@ -3,7 +3,7 @@
 <h2>🧪 Homelab Projects:</h2>
 
 
-  - [Active Directory Homelab](https://github.com/timgrin/AD-DS-Homelab)
+  - [Active Directory Homelab](https://github.com/timgrin/AD-DS-Homelab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
 
 
 
