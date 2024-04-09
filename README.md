@@ -6,10 +6,11 @@
   - [Active Directory Homelab](https://github.com/timgrin/AD-DS-Homelab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
 
 
-<h2>📑 Certifications:<h2>
+<h2>📑Certifications:</h2>
+
 
   - ISC2, Certified in Cybersecurity
-  - Security Blue Team, Blue Team Junior Analyst
+  - Security Blue Team, Bkue Team Junior Analyst
 
   
 <h2> 🤳 Connect with me:</h2>
