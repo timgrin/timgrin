@@ -4,6 +4,7 @@
 
 
   - [Active Directory Homelab](https://github.com/timgrin/AD-DS-Homelab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
+  - [Cybersecurity Homelab for Detection & Monitoring](https://github.com/timgrin/Cybersecurity-Homelab-for-Detection-and-Monitoring) - Built a small-scale monitoring and detection infrastructure with the use of Splunk, Security Onion, and Pfsense, to enhance proactive security measures.
 
 
 <h2>📑Certifications:</h2>
