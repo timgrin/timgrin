@@ -8,7 +8,9 @@
 
 <h2>📑 Certifications<h2>
 
-- ISC2 Certified in Cybersecurity
+  - ISC2, Certified in Cybersecurity
+  - Security Blue Team, Blue Team Junior Analyst
+
   
 <h2> 🤳 Connect with me:</h2>
 
