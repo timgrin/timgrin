@@ -8,7 +8,7 @@
 
 <h2>📑 Certifications<h2>
 
-<b1>ISC2 Certified in Cybersecurity<b1>
+- ISC2 Certified in Cybersecurity
   
 <h2> 🤳 Connect with me:</h2>
 
