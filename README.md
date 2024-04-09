@@ -6,7 +6,10 @@
   - [Active Directory Homelab](https://github.com/timgrin/AD-DS-Homelab) - Deployed ADDS, and created 900+ users using a PowerShell Script, to simulate an enterprise network.
 
 
+<h2>📑 Certifications<h2>
 
+ISC2 Certified in Cybersecurity
+  
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Muneer44 | Gmail" width="24px" src="https://www.svgrepo.com/show/381000/new-logo-gmail.svg" />][Gmail]
