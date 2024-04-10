@@ -11,7 +11,7 @@
 
 
   - ISC2, Certified in Cybersecurity
-  - Security Blue Team, Bkue Team Junior Analyst
+  - Security Blue Team, Blue Team Junior Analyst
 
   
 <h2> 🤳 Connect with me:</h2>
